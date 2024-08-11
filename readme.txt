@@ -12,3 +12,5 @@ Creating a new branch is quick and simple.
 --this is feature1
 --this is pull test
 
+--this is a branch to remote test and have been changed===
+--new changed text for No.2 member
